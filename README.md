@@ -1,4 +1,4 @@
-#  [Your App Name] - A Beautiful E-Reader App
+#  Zero to one - A Beautiful E-Reader App
 
 Zero to One is a Flutter-based e-book reader app designed to provide a delightful reading experience with a focus on aesthetics and customization. Dive into your favorite books with a stunning UI, a variety of themes, and a selection of elegant fonts to personalize your reading journey.
 
